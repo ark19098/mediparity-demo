@@ -1,0 +1,15 @@
+.space-between {
+    justify-content: space-between;
+}
+.space-evenly {
+    justify-content: space-evenly
+}
+.center-aligned {
+    align-items: center;
+}
+
+.hsp-container-style {
+    background-color: white;
+    /* border: 2px solid #1A4E87; */
+    border-radius: 10px;
+}

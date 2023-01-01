@@ -1,0 +1,12 @@
+.ant-select {
+     width: 120px;
+     border-radius: 50px;
+} 
+.select-container .ant-select .ant-select-selector {
+    border-radius:20px;
+    border: solid 2px #1A4E87;
+    color: #1A4E87;
+}
+/* .ant-select-selector {
+    background-color: #1A4E87;
+} */
